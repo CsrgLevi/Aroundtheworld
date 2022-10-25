@@ -1,0 +1,16 @@
+Szolgáltatás információk
+---------------------------------
+Webhoszting szolgáltatás megnevezése: Webhosting SSD One
+Domain név: ar123123123123u
+
+cPanel Admin felület: https://cPanel18.rackf123123:2083/
+cPanel Admin felhasználó: a12123
+cPanel Admin jelszó: z123123123123
+
+A weboldal feltöltése
+----------------------------
+Weboldal URL: http://www.ar3211223rld.hu
+FTP hozzáférés: www.aroundt2112rld.hu
+FTP felhasználó és jelszó: Ugyanaz mint a cPanel felhasználó és jelszó.
+
+Ideiglenes FTP hozzáférés: 19123123123
