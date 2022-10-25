@@ -14,3 +14,5 @@ FTP hozzáférés: www.aroundt2112rld.hu
 FTP felhasználó és jelszó: Ugyanaz mint a cPanel felhasználó és jelszó.
 
 Ideiglenes FTP hozzáférés: 19123123123
+
+Ez majd egy leírás lesz arról hogy mit kell változtatni a kódokon a következő nap
